@@ -1,0 +1,145 @@
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\CapaControladorVista.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\CapaControladorVista.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Autofac.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Autofac.Integration.Mvc.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Dominio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.Core.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Insfrastructura.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Servicio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Http.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\WebGrease.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Dominio.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Insfrastructura.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Servicio.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Autofac.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Autofac.Integration.Mvc.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.Core.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Helpers.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Http.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Mvc.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Optimization.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Razor.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.WebPages.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\WebMatrix.Data.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\obj\Debug\CapaControladorVista.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\obj\Debug\CapaControladorVista.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\CapaControladorVista\obj\Debug\CapaControladorVista.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\CapaControladorVista.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\CapaControladorVista.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\CapaControladorVista.dll.CodeAnalysisLog.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\CapaControladorVista.dll.lastcodeanalysissucceeded
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Autofac.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Autofac.Integration.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Dominio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.Core.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Insfrastructura.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Servicio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.Data.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.WebData.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Dominio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Insfrastructura.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Servicio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Autofac.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Autofac.Integration.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.Data.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\WebMatrix.WebData.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.Core.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Helpers.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Mvc.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Optimization.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.Razor.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.WebPages.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\WebMatrix.Data.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\obj\Debug\CapaControladorVista.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\obj\Debug\CapaControladorVista.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\CapaControladorVista\obj\Debug\CapaControladorVista.pdb

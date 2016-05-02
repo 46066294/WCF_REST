@@ -1,0 +1,26 @@
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\Dominio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\Dominio.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\obj\Debug\Dominio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Dominio\obj\Debug\Dominio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\Dominio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\Dominio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\obj\Debug\Dominio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\obj\Debug\Dominio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\Dominio.dll.CodeAnalysisLog.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\bin\Debug\Dominio.dll.lastcodeanalysissucceeded
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache

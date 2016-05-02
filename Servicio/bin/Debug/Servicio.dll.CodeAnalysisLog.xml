@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Servicio.dll">
+   <Modules>
+    <Module Name="servicio.dll">
+     <Namespaces>
+      <Namespace Name="Servicio">
+       <Types>
+        <Type Name="ServiceBase" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-05-02 12:04:13Z" FixCategory="Breaking">
+           <Issue Name="ProvideDisposeBool" Certainty="95" Level="Error">Proporcionar una implementación que se pueda reemplazar de Dispose(bool) en 'ServiceBase' o marcar el tipo como sellado. Una llamada a Dispose(false) solamente debería limpiar recursos nativos. Una llamada a Dispose(true) debería limpiar tanto recursos administrados como nativos.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#Dispose()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-05-02 12:04:13Z" FixCategory="Breaking">
+             <Issue Name="DisposeImplementation" Certainty="95" Level="Error" Path="c:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio" File="ServiceBase.cs" Line="30">Modifique 'ServiceBase.Dispose()' para que llame a Dispose(true) y después a GC.SuppressFinalize en la instancia de objeto actual ('this' o 'Me' en Visual Basic), y después devuelva un valor.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063">
+   <Name>Implemente IDisposable correctamente</Name>
+   <Description>Todos los tipos IDisposable deben implementar el modelo de Dispose correctamente.</Description>
+   <Resolution Name="DisposeImplementation">Modifique {0} para que llame a Dispose(true) y después a GC.SuppressFinalize en la instancia de objeto actual ('this' o 'Me' en Visual Basic), y después devuelva un valor.</Resolution>
+   <Resolution Name="ProvideDisposeBool">Proporcionar una implementación que se pueda reemplazar de Dispose(bool) en {0} o marcar el tipo como sellado. Una llamada a Dispose(false) solamente debería limpiar recursos nativos. Una llamada a Dispose(true) debería limpiar tanto recursos administrados como nativos.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms244737(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

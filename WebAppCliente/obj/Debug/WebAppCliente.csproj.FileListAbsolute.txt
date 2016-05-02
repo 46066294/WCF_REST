@@ -1,0 +1,96 @@
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\WebAppCliente.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\WebAppCliente.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Autofac.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Autofac.Integration.Web.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Dominio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.Core.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\EntityFramework.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Insfrastructura.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Servicio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\System.Web.Providers.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\WebGrease.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Dominio.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Insfrastructura.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Servicio.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Autofac.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\Autofac.Integration.Web.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\EntityFramework.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.Core.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\es\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\es\System.Web.Optimization.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\es\System.Web.Providers.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\obj\Debug\WebAppCliente.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\obj\Debug\WebAppCliente.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\WebAppCliente\obj\Debug\WebAppCliente.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\WebAppCliente.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\WebAppCliente.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\WebAppCliente.dll.CodeAnalysisLog.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\WebAppCliente.dll.lastcodeanalysissucceeded
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Autofac.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Autofac.Integration.Web.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Dominio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.Core.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Insfrastructura.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Servicio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\System.Web.Providers.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Dominio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Insfrastructura.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Servicio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Autofac.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\Autofac.Integration.Web.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.Core.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\es\System.Web.Optimization.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\es\System.Web.Providers.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\obj\Debug\WebAppCliente.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\obj\Debug\WebAppCliente.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\WebAppCliente\obj\Debug\WebAppCliente.pdb

@@ -1,0 +1,34 @@
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\Servicio.dll.config
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\Servicio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\Servicio.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\Dominio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\Insfrastructura.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\Dominio.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\Insfrastructura.pdb
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\obj\Debug\Servicio.dll
+C:\Users\admin\Desktop\Practica .Net\21042016\WebMVC_CustomerFinal2\WebMVC_Customer\Servicio\obj\Debug\Servicio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Servicio.dll.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Servicio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Servicio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Dominio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Insfrastructura.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Dominio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Insfrastructura.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\obj\Debug\Servicio.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\obj\Debug\Servicio.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Servicio.dll.CodeAnalysisLog.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\WebMVC_Customer\Servicio\bin\Debug\Servicio.dll.lastcodeanalysissucceeded
